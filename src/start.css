@@ -1,0 +1,48 @@
+body{
+  background-color:rgb(216, 216, 216);
+  margin: 0 auto;
+  width: 70%;
+}
+
+.name{
+  font-size: 40px;
+  text-align: center;
+}
+
+.h1{
+    text-align: center;
+    font-size: 25px;
+}
+
+.first{
+    text-align: center;
+}
+
+.name-1{
+  color: #ff000f;
+}
+
+.yohaku{
+  margin: 3em 0px;
+}
+
+p{
+  font-size: 20px;
+}
+
+.pro{
+  margin: 1.5em;
+}
+
+.h2{
+  font-size: 20px;
+}
+
+.mokuhyou{
+  color: #ff000f;
+}
+
+.link1{
+  color: rgb(113, 9, 231);
+  
+}
