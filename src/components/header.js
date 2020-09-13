@@ -5,7 +5,7 @@ export default class Header extends Component {
     render(){
         return (
             <header className="header">
-                <p>*いろいろと文脈がおかしいところがあります。*</p>
+                <p>*いろいろと文脈がおかしいところがあります*</p>
             </header>
         )
     }

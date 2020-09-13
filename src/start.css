@@ -1,5 +1,5 @@
 body{
-  background-color:rgb(216, 216, 216);
+  background-color: white;
   margin: 0 auto;
   width: 70%;
 }
@@ -7,15 +7,18 @@ body{
 .name{
   font-size: 40px;
   text-align: center;
+  color: black;
 }
 
 .h1{
     text-align: center;
     font-size: 25px;
+    color: black;
 }
 
 .first{
     text-align: center;
+    color: black;
 }
 
 .name-1{
@@ -24,6 +27,7 @@ body{
 
 .yohaku{
   margin: 3em 0px;
+  color: black;
 }
 
 p{
@@ -32,6 +36,7 @@ p{
 
 .pro{
   margin: 1.5em;
+  color: black;
 }
 
 .h2{
@@ -45,4 +50,8 @@ p{
 .link1{
   color: rgb(113, 9, 231);
   
+}
+
+h4 {
+  color: black;
 }

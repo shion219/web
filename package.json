@@ -1,15 +1,16 @@
 {
   "name": "my-app",
-  "homepage": "http://username.github.io/react-pages",
+  "homepage": "http://shion219.github.io/web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
     "@testing-library/user-event": "^7.2.1",
-    "gh-pages": "^2.2.0",
+    "bootstrap": "^4.4.1",
     "http-server": "^0.12.1",
     "react": "^16.13.0",
+    "react-bootstrap": "^1.0.0-beta.17",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
     "yarn": "^1.22.0"
@@ -19,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build", 
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -38,5 +39,8 @@
     ]
   },
   "main": "App.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }
